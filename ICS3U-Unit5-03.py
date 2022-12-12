@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Created by: Emmanuel Fofeyin
-# Created on: Nov 2022
+# Created on: Dec 2022
 # This program converts level grades to percentages
 
 
